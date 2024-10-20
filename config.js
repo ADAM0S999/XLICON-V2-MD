@@ -6,15 +6,7 @@ import fetch from 'node-fetch'
 import axios from 'axios'
 
 // Global variables
-global.owner = [
-  ['918360234087', 'WHITE', true], 
-  ['233208179431', 'Abraham Dwamena', true],
-  ['212781076705', 'DODO -(ADAM)', true], 
-  ['94789481495', '𝙼𝚉𝙽 𝙺𝙸𝙽𝙶 ⚡', true],
-  ['233533763772', 'Abraham Dwamena2', true],
-  ['233268374753', 'Abraham Dwamena3', true]
-] 
-
+global.owner = ['212781076705', 'DODO -(ADAM)⚡', true]
 global.mods = ['212781076705'] 
 global.prems = ['212781076705']
 global.allowed = ['212781076705']
@@ -51,18 +43,12 @@ global.APIKeys = {
 }
 
 // Sticker WM
-global.botname = 'DODO-V2'
+global.botname = 'DODO-bot'
 global.premium = 'true'
 global.packname = 'DODO TEAM' 
-global.author = '@DODO-V2' 
+global.author = '@i___m___adam' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
-global.igfg = '▢✓ Follow Our channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
-global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
-global.fgsc = 'https://github.com/salmanytofficial/XLICON-V2-MD' 
-global.fgyt = 'https://youtube.com/@s4salmanyt'
-global.fgpyp = 'https://youtube.com/@s4salmanyt'
-global.fglog = 'DODO.jpg' 
-global.thumb = fs.readFileSync('./DODO.jpg')
+global.thumb = fs.readFileSync('./https://t4.ftcdn.net/jpg/06/93/28/55/360_F_693285508_vbAfGdv1NsZVyjaWzivPeUX7TONVnvxA.jpg')
 
 global.wait = '*🕣 _ADAM MD IS LOADING..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
